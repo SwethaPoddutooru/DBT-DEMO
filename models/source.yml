@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: DEMO1
+    database: DEMO1 
+    schema: DEMO1_SCHEMA
+    tables:
+      - name: BIKE_TBL
+      - name: WEATHER_TBL
